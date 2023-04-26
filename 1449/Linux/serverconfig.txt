@@ -1,6 +1,6 @@
-world=/srv/terraria/Worlds/MyWorld.wld
+world=./Worlds/Generic.wld
 autocreate=2
 difficulty=1
-worldname=MyWorld
-worldpath=/srv/terraria/Worlds
+worldname=Generic
+worldpath=./Worlds
 maxplayers=8
