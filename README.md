@@ -1,3 +1,3 @@
 # jenkinsterraria
 Pre-configured server for my custom pipeline
-v0.1
+v0.0.1
