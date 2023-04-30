@@ -1,2 +1,2 @@
 # jenkinsterraria
-Pre-configured server for my custom pipline
+Pre-configured server for my custom pipeline
